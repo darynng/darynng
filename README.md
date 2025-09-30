@@ -1,5 +1,5 @@
 ## Hi there, I'm Daryn 👋
-A passionate EE | Experience in controls and hardware.
+A passionate EE | Experience in hardware and controls.
 
 🎓 I'm an Electrical Engineering senior with a strong focus on hardware systems, controls, and automation.
 

@@ -5,6 +5,6 @@ A passionate EE | Experience in hardware and controls.
 
 🌱 I’m currently working on building an autonomous vehicle using IntelRealsenseD435I depth camera and Nvidia Jetson Orin Nano board. 
 
-📫 I'm stay in-touch at nguye7td@mail.uc.edu - Let's discuss anything that's on your mind ("How to achieve financial independence in 5 years?")!
+📫 I'm stay in-touch at nguye7td@mail.uc.edu - Let's discuss anything that's on your mind ("How to achieve zero-waste living style?")!
 
 ⚡ Fun fact: I can play most sports except soccer and baseball - Challenge me!

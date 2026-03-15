@@ -1,10 +1,10 @@
 ## Hi there, I'm Daryn 👋
-A passionate EE | Experience in hardware and controls.
+A passionate EE | Experience in controls, power and robotics.
 
-🎓 I'm an Electrical Engineering senior with a strong focus on hardware systems, controls, and automation.
+🎓 I'm an Electrical Engineering senior with a strong focus on industrial control systems, power and robotic navigation.
 
-🌱 I’m currently working on building an autonomous vehicle using IntelRealsenseD435I depth camera and Nvidia Jetson Orin Nano board. 
+🌱 Currently buildingan AMR using IntelRealsenseD435I depth camera, Nvidia Jetson Orin Nano board and Segway RMP PLUS 401. 
 
-📫 I'm stay in-touch at nguye7td@mail.uc.edu - Let's discuss anything that's on your mind ("How to achieve zero-waste living style?")!
+📫 Feel free to reach out at nguye7td@mail.uc.edu - Let's discuss anything that's on your mind (e.g. "How to achieve zero-waste living style?")!
 
-⚡ Fun fact: I can play most sports except soccer and baseball - Challenge me!
+⚡ Fun fact: I can play any sports except soccer - Challenge me!
